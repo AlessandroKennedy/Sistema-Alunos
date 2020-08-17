@@ -1,2 +1,2 @@
-# Sistema-Alunos
-sistema simples de gestãod e alunos e  cursos
+## Sistema de gestão de alunos e cursos
+version: 1.0
